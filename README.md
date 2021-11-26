@@ -18,6 +18,14 @@ Execute the program
 <<html>
 <body>
 <table width=100% border = "1" bgcolor = "white">
+  <tr>
+    <th colspan=9 >TIME TABLE </th>
+  </tr>
+  <tr>
+    <th colspan=2>Reference number:</th>
+    <th colspan=2>21003881</th>
+    <th colspan=3>shaik sameer</th>
+  </tr>
 <tr>
 <th> subject</th>
 <th>faculty</th>
@@ -33,6 +41,7 @@ Execute the program
 <td> Jaba jaspin E.t</td>
 <td>10:00 am to 12:00 pm and 1:00 pm to 3:00 pm</td>
 <td> ---</td>
+
 <td>10:00 am to 12:00 pm</td>
 <td>10:00am to 12:00 pm</td>
 <td>10:00 am to 12:00 pm</td>
@@ -85,5 +94,5 @@ Execute the program
 </table>
 </body>
 </html>
-~~~
 # OUPUT
+!l[ogo.png]
