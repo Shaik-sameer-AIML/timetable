@@ -14,6 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE
+~~~<DOCTYPE html>
 <html>
  <head>
 <title>TIME TABLE</title>
@@ -80,8 +81,7 @@ bgcolor="GREY">
       </table>
    </body>
 </html>
-
+~~~
 ## Output:
 
-![output](https://github.com/Shaik-sameer-AIML/timetable/blob/main/logo.png?raw=true)
-![output](https://github.com/Shaik-sameer-AIML/timetable/blob/main/time%20table%20.JPG?raw=true)
+![Github Logo](C.JPG)
