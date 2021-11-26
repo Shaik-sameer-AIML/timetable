@@ -14,85 +14,74 @@ Add your timetable
 Execute the program
 
 # CODE
-~~~<!DOCTYPE html>
-<<html>
-<body>
-<table width=100% border = "1" bgcolor = "white">
-  <tr>
-    <th colspan=9 >TIME TABLE </th>
-  </tr>
-  <tr>
-    <th colspan=2>Reference number:</th>
-    <th colspan=2>21003881</th>
-    <th colspan=3>shaik sameer</th>
-  </tr>
-<tr>
-<th> subject</th>
-<th>faculty</th>
-<th>monday</th>
-<th>tuesday</th>
-<th>wednesday</th>
-<th>thursday</th>
-<th>friday</th>
+<html>
 
-</tr>
-<tr>
-<td> Python programming & linear algebra</td>
-<td> Jaba jaspin E.t</td>
-<td>10:00 am to 12:00 pm and 1:00 pm to 3:00 pm</td>
-<td> ---</td>
+   <head>
+      <title>TIME TABLE</title>
+   </head>
+	
+   <body>
+      <table border = "8" cellspacing="3" bordercolor="BLUE" bgcolor="GREY">
+      <ing src="logo.png">
+         <tr>
+            <th colspan="8">TIME TABLE</th>
+         </tr>
+         <tr>
+<th colspan="2">Reference number:</th>
+<th colspan="2" align="left">21003158</th>
+<th colspan="2">Name:<th>
+<th colspan="2" align="left">V.CHARAN SAI</th>
+         <tr>
+            <th>DAYS</th>
+            <th>1</th>
+            <th>2</th>
+            <th>3</th>
+            <th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
 
-<td>10:00 am to 12:00 pm</td>
-<td>10:00am to 12:00 pm</td>
-<td>10:00 am to 12:00 pm</td>
-</tr>
+         </tr>
+        
 <tr>
-<td>mechanics and modelling</td>
-<td>Ram g.r</td>
-<td>---</td>
-<td>10:00 am to 12:00 pm and 1:00 pm to 3:00 pm</td>
-<td>---</td> 
-<td>8:00 am to 10:00 am and 1:00pm to 3:00 pm</td>
-<td>---</td>
-</tr>
-<tr>
-<td> fundamentals of web technology</td>
-<td> Karthi govindharaju</td>
-<td>---</td>
-<td>8:00 am to 10:00 am</td>
-<td>8:00 am to 10:00 am</td>
-<td>---</td>
-<td>8:00 am to 10:00 am</td>
-</tr>
-<tr>
-<td>system of numericals</td>
-<td> Bharath sundar</td>
-<td>---</td>
-<td>---</td>
-<td>---</td>
-<td>---</td>
-<td>1:00 pm to 3:00pm</td>
-</tr>
-<tr>
-<td>environmental science </td>
-<td> Sasikala M</td>
-<td>8:00 am to 10:00 am </td>
-<td>---</td>
-<td>---</td>
-<td>---</td>
-<td>---</td>
-</tr>
-<tr>
-<td>mentoring -AM1 </td>
-<td> Pramila G</td>
-<td>--- </td>
-<td>---</td>
-<td>---</td>
-<td>12:00 pm to 1:00 pm</td>
-<td>---</td>
-</tr>
-</table>
-</body>
+             <td>MONDAY</td>
+             <td colspan="2">Environmental Science( 19MC802 )</td>
+             <td colspan="2">Linear Algebra Laboratory( 19MA221 )</td>
+	     <th rowspan="3">LUNCH BREAK</th>
+             <td colspan="2">Mathematics for Artificial Intelligence( 19MA220 )</td>
+         </tr>
+             <td>TUESDAY</td>
+             <td colspan="2">Web Technology Laboratory( 19AI402 )</td>
+             <td colspan="2">Engineering Mechanics and Product Development( 19AI303 )</td>
+             
+             <td colspan="2">Engineering Mechanics and Product Development( 19AI303 )</td>
+        </tr>
+  
+  	     <td>WEDNESDAY</td>
+             <td colspan="2">Fundamentals of Web Technology( 19AI401) </td>
+             <td colspan="2">Mathematics for Artificial Intelligence( 19MA220 )</td>
+             <td colspan="2">no class</td>
+         </tr>
+	     <td>THURSDAY</td>
+             <td colspan="2">Engineering Mechanics and Product Development( 19AI303 )</td>
+             <td colspan="2">Python Programming( 19AI301 )</td>
+             <td>  Mentoring</td>
+             <td colspan="2">Engineering Design and Modeling( 19AI302 )</td>
+         </tr>  
+	     <td>FRIDAY</td>
+             <td colspan="2">Fundamentals of Web Technology( 19AI401)</td>
+             <td colspan="2">Python Programming( 19AI301 )</td>
+             <td></td>
+             <td colspan="5">System of Numerical and Logical Terminologies( 19EY703 )</td>
+          </tr>  
+	     <td>SATURDAY</td>
+             <td colspan="7" align="center">LEAVE</td> 
+          </tr>  
+	     <td>SUNDAY</td>
+             <td colspan="7" align = "center">LEAVE</td>           
+      </table>
+   </body>
 </html>
 # OUPUT
+
 !l[ogo.png]
