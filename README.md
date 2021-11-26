@@ -84,4 +84,4 @@ bgcolor="GREY">
 ~~~
 ## Output:
 
-![Github Logo](C.jpg)
+![Github Logo](timetable.png)
