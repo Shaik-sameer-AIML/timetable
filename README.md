@@ -82,6 +82,10 @@ Execute the program
       </table>
    </body>
 </html>
-# OUPUT
+
+## Output:
 
 !l[ogo.png]
+![output](https://github.com/Shaik-sameer-AIML/timetable/blob/main/logo.png?raw=true)
+## Result:
+Thus the inverse of given matrix is successfully solved using python program
