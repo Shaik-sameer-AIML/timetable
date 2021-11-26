@@ -84,4 +84,4 @@ bgcolor="GREY">
 ~~~
 ## Output:
 
-![Github Logo](C.JPG)
+![Github Logo](C.jpg)
