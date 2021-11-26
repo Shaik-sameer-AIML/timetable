@@ -15,47 +15,45 @@ Execute the program
 
 # CODE
 <html>
-
-   <head>
-      <title>TIME TABLE</title>
-   </head>
-	
-   <body>
-      <table border = "8" cellspacing="3" bordercolor="BLUE" bgcolor="GREY">
-      <ing src="logo.png">
-         <tr>
-            <th colspan="8">TIME TABLE</th>
-         </tr>
-         <tr>
+ <head>
+<title>TIME TABLE</title>
+</head>
+<body>
+<table border = "8" cellspacing="3" bordercolor="BLUE"
+bgcolor="GREY">
+<ing src="logo.png">
+<tr>
+<th colspan="8">TIME TABLE</th>
+</tr>
+<tr>
 <th colspan="2">Reference number:</th>
 <th colspan="2" align="left">21003881</th>
 <th colspan="2">Name:<th>
 <th colspan="2" align="left">shaik sameer</th>
-         <tr>
-            <th>DAYS</th>
-            <th>1</th>
-            <th>2</th>
-            <th>3</th>
-            <th>4</th>
+<tr>
+<th>DAYS</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
 <th>5</th>
 <th>6</th>
 <th>7</th>
-
-         </tr>
-        
+</tr>
+      
 <tr>
-             <td>MONDAY</td>
-             <td colspan="2">Environmental Science( 19MC802 )</td>
-             <td colspan="2">Linear Algebra Laboratory( 19MA221 )</td>
-	     <th rowspan="3">LUNCH BREAK</th>
-             <td colspan="2">Mathematics for Artificial Intelligence( 19MA220 )</td>
-         </tr>
-             <td>TUESDAY</td>
-             <td colspan="2">Web Technology Laboratory( 19AI402 )</td>
-             <td colspan="2">Engineering Mechanics and Product Development( 19AI303 )</td>
+<td>MONDAY</td>
+<td colspan="2">Environmental Science( 19MC802 )</td>
+<td colspan="2">Linear Algebra Laboratory( 19MA221 )</td>
+<th rowspan="3">LUNCH BREAK</th>
+<td colspan="2">Mathematics for Artificial Intelligence( 19MA220 )</td>
+</tr>
+ <td>TUESDAY</td>
+ <td colspan="2">Web Technology Laboratory( 19AI402 )</td>
+    <td colspan="2">Engineering Mechanics and Product Development( 19AI303 )</td>
              
-             <td colspan="2">Engineering Mechanics and Product Development( 19AI303 )</td>
-        </tr>
+             <td colspan="2">Engineering Mechanics and poduct Development( 19AI303 )</td>
+</tr>
   
   	     <td>WEDNESDAY</td>
              <td colspan="2">Fundamentals of Web Technology( 19AI401) </td>
@@ -85,7 +83,5 @@ Execute the program
 
 ## Output:
 
-!l[ogo.png]
 ![output](https://github.com/Shaik-sameer-AIML/timetable/blob/main/logo.png?raw=true)
-## Result:
-Thus the inverse of given matrix is successfully solved using python program
+![output](https://github.com/Shaik-sameer-AIML/timetable/blob/main/time%20table%20.JPG?raw=true)
