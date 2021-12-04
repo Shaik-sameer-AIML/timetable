@@ -99,6 +99,7 @@ Execute the program
 
 
 # OUTPUT
-![output](img.png)
+![output](https://github.com/MEENA155/timetable/blob/main/img.png?raw=true)
+
 ## RESULT
 The program is executed.
