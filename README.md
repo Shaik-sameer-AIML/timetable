@@ -14,9 +14,9 @@ Add your timetable
 Execute the program
 
 # CODE
-~~~<DOCTYPE html>
+~~~
 <html>
- <head>
+<head>
 <title>TIME TABLE</title>
 </head>
 <body>
@@ -41,7 +41,6 @@ bgcolor="GREY">
 <th>6</th>
 <th>7</th>
 </tr>
-      
 <tr>
 <td>MONDAY</td>
 <td colspan="2">Environmental Science( 19MC802 )</td>
@@ -49,12 +48,24 @@ bgcolor="GREY">
 <th rowspan="3">LUNCH BREAK</th>
 <td colspan="2">Mathematics for Artificial Intelligence( 19MA220 )</td>
 </tr>
- <td>TUESDAY</td>
- <td colspan="2">Web Technology Laboratory( 19AI402 )</td>
-    <td colspan="2">Engineering Mechanics and Product Development( 19AI303 )</td>
-             
-             <td colspan="2">Engineering Mechanics and poduct Development( 19AI303 )</td>
+<td>TUESDAY</td>
+<td colspan="2">Web Technology Laboratory( 19AI402 )</td>
+<td colspan="2">Engineering Mechanics and Product Development( 19AI303 )</td>
+<td colspan="2">Engineering Mechanics and poduct Development( 19AI303 )</td>
 </tr>
+<td>WEDNESDAY</td>
+<td colspan="2">Fundamentals of Web Technology( 19AI401) </td>
+<td colspan="2">Mathematics for Artificial Intelligence( 19MA220 )</td>
+<td colspan="2">no class</td>
+</tr>
+<td>THURSDAY</td>
+<td colspan="2">Engineering Mechanics and Product Development( 19AI303 )
+</td>
+<td colspan="2">Python Programming( 19AI301 )</td>
+<td> Mentoring</td>
+<td colspan="2">Engineering Design and Modeling( 19AI302 )</td>
+</tr>
+<<<<<<< HEAD
   
   	     <td>WEDNESDAY</td>
              <td colspan="2">Fundamentals of Web Technology( 19AI401) </td>
@@ -82,5 +93,6 @@ bgcolor="GREY">
    </body>
 </html>
 ~~~
-## Output:
+
+## OUTPUT:
 ![output](https://github.com/Shaik-sameer-AIML/timetable/blob/main/sameer%20timetable%2C%2C.JPG?raw=true)
