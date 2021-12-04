@@ -14,6 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE
+
 ~~~
 <!DOCTYPE html>
 <html>
@@ -93,12 +94,9 @@ Execute the program
       
          </tr></td>
              
-      </table>
-      
-   </body>
-</html>
+
 ~~~
+
 
 # OUTPUT
 ![output](img.png)
-
