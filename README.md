@@ -100,3 +100,5 @@ Execute the program
 
 # OUTPUT
 ![output](img.png)
+## RESULT
+The program is executed.
