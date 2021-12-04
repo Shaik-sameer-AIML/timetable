@@ -83,5 +83,4 @@ bgcolor="GREY">
 </html>
 ~~~
 ## Output:
-
-![Github Logo](timetable.png)
+![output](https://github.com/Shaik-sameer-AIML/timetable/blob/main/sameer%20timetable%2C%2C.JPG?raw=true)
